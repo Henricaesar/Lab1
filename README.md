@@ -64,10 +64,11 @@ Remote Repository merupakan repository server yang akan digunakan untuk menyimpa
 untuk menambahkan remote repository server, gunakan perintah
 
 git remote add origin [url]
-git remote add origin https://github.com/nisanst11/icanst.git
+git remote add origin https://github.com/Henricaesar/Lab1.git
 
 
 ## MENGIRIM PERUBAHAN KE SERVER (PUSH)
 Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 
 git push -u origin master
+## Screenshot ada di folder screenshot 
